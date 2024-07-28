@@ -1,0 +1,7 @@
+{
+   "port": 8080,
+   "type": "docker",
+   "build": {
+     "location": "iran"
+  }
+}
