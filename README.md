@@ -1,2 +1,2 @@
 # gin-crud
-simple crud with golang and gin framework and sqlite db
+simple crud with golang and gin framework and sqlite database
