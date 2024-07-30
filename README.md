@@ -1,2 +1,2 @@
-## simple gin crud
+## Simple gin crud
 ### Simple rud with golang and gin framework and sqlite database.
