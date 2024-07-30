@@ -1,2 +1,2 @@
-## simple-gin-crud
-### Simple crud with golang and gin framework and sqlite database.
+## simple-gin-crud project
+### Simple rud with golang and gin framework and sqlite database.
